@@ -27,7 +27,8 @@ g++은 c++컴파일러
 
 3.command + p 누르고 c_cpp_properties.json 파일을 수정. compilerPath에 경로/gcc 붙여준다.
 
-![1_photo](./1_photo.png)
+//![1_photo](./1_photo.png)
+![1_photo](https://user-images.githubusercontent.com/76822715/147785473-d398f602-17fe-4d12-b5d4-9d6ea2ccc14c.png)
 
 
 
